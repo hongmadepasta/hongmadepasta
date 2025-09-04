@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+#### hongmadepasta is made with Generative AI, Behavioral Economics, and Causal Inference 
+
+<!-- #### I'm interested in blending **Gen AI**, **Behavioral Economics**, and **Causal Inference**
 <!--
 **hongmadepasta/hongmadepasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
